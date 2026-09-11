@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Rust](https://img.shields.io/badge/Built%20with-Substrate-orange)](https://substrate.io/)
 [![PoUW](https://img.shields.io/badge/Consensus-PoUW-blue)](#)
-[![Network](https://img.shields.io/badge/Network-omnitrainai.network-green)](https://omnitrainai.network)
+[![Network](https://img.shields.io/badge/Network-omnitrainai.network-green)]()
 
 **OmniTrain AI** is a decentralized, high-performance **Layer-1 Proof-of-Useful-Work (PoUW)** blockchain network engineered as a universal processing engine to monetize consumer and enterprise GPU compute power. Instead of wasting energy on arbitrary math puzzles, node operators earn native `$OTAI` coins by executing real-world, verified AI workloads—including LLM training, parameter-efficient fine-tuning (LoRA/QLoRA), and high-speed inference.
 
